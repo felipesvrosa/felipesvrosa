@@ -9,16 +9,6 @@
   <img align="center" alt="macos" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" />
 </div><br/>
 
-## Aqui está algumas informações interessantes
-
-## Link do meu Instagram: https://www.instagram.com/apenas_um_rosa/
-
-## Link do meu Linkedin: https://www.linkedin.com/in/felipe-silva-rosa-112205205/
-
-## Link do meu Github: https://github.com/felipesvrosa
-
-## Vamos nos conectar? 👋
-
 ![Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=felipesvrosa&show_icons=true&theme=tokyonight)
 
 <div style="display: inline_block">
@@ -31,3 +21,5 @@
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
+
+## Vamos nos conectar? 👋
